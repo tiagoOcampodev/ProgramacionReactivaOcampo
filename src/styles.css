@@ -1,1 +1,15 @@
 /* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+.tabla{
+    position: absolute;
+    left: -10%;
+    scale: .9;
+}
+.filtro{
+    margin: 18px 80px 0px 80px;
+}
+.example-spacer{
+    flex: 1 1 auto;
+}
